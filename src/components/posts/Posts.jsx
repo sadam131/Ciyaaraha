@@ -4,7 +4,7 @@ function Posts() {
   return (
     <div className="w-[95%] lg:w-[80%] mx-auto mt-8">
       <h1 className="text-[#043067] text-3xl font-poppins font-bold ">
-        <span className="text-[#eb9fef]">Latest</span> news
+        <span className="text-teal-400">Latest</span> news
       </h1>
       <div className="mb-8 mt-8">
         <div className="lg:flex flex-wrap gap-x-6 ">
@@ -17,10 +17,10 @@ function Posts() {
               />
             </div>
             <div className="font-poppins p-4 w-[63%]">
-              <p className="text-2xl mb-2 lg:text-xxl capitalize font-bold text-[#03254e]">
+              <p className="text-lg mb-2 lg:text-xxl capitalize font-bold text-[#03254e]">
                 sports
               </p>
-              <p className="mb-2 text-lg cursor-pointer">
+              <p className="mb-2 text-md cursor-pointer">
                 kooxda barcelona oo xireesa tv geeda
               </p>
               <div className="lg:absolute bottom-0 mb-2 font-medium">
@@ -37,10 +37,10 @@ function Posts() {
               />
             </div>
             <div className="font-poppins p-4 w-[63%]">
-              <p className="text-2xl mb-2 lg:text-xxl capitalize font-bold text-[#03254e]">
+              <p className="text-lg mb-2 lg:text-lg capitalize font-bold text-[#03254e]">
                 sports
               </p>
-              <p className="mb-2 text-lg cursor-pointer">
+              <p className="mb-2 text-md cursor-pointer">
                 kooxda barcelona oo xireesa tv geeda
               </p>
               <div className="lg:absolute bottom-0 mb-2 font-medium">
@@ -57,10 +57,10 @@ function Posts() {
               />
             </div>
             <div className="font-poppins p-4 w-[63%]">
-              <p className="text-2xl mb-2 lg:text-xxl capitalize font-bold text-[#03254e]">
+              <p className="text-lg mb-2 lg:text-xxl capitalize font-bold text-[#03254e]">
                 sports
               </p>
-              <p className="mb-2 text-lg cursor-pointer">
+              <p className="mb-2 text-md cursor-pointer">
                 kooxda barcelona oo xireesa tv geeda
               </p>
               <div className="lg:absolute bottom-0 mb-2 font-medium">
@@ -77,10 +77,10 @@ function Posts() {
               />
             </div>
             <div className="font-poppins p-4 w-[63%]">
-              <p className="text-2xl mb-2 lg:text-xxl capitalize font-bold text-[#03254e]">
+              <p className="text-lg mb-2 lg:text-xxl capitalize font-bold text-[#03254e]">
                 sports
               </p>
-              <p className="mb-2 text-lg cursor-pointer">
+              <p className="mb-2 text-md cursor-pointer">
                 kooxda barcelona oo xireesa tv geeda
               </p>
               <div className="lg:absolute bottom-0 mb-2 font-medium">

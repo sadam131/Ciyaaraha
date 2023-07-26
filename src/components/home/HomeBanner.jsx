@@ -10,12 +10,12 @@ function HomeBanner() {
               <CgMediaLive  className="icon__live text-5xl text-red-500 mt-3 mr-4"/>
             </div>
             <div>
-              <h1 className="text-6xl mb-8 text-[#eb9fef] font-poppins capitalize font-bold">
+              <h1 className="text-6xl mb-8 text-teal-400 font-poppins capitalize font-bold">
                 breaking news
               </h1>
             </div>
           </div>
-          <p className="text-2xl font-poppins capitalize font-medium">
+          <p className="text-2xl ml-12 font-poppins capitalize">
             mason mount oo ku biiray kooxda manchester united
           </p>
         </div>
